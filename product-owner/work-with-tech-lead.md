@@ -1,0 +1,28 @@
+# work with tech lead
+- [ ] meet regularly 1:1 with tech lead and/or engineers
+- [ ] learn the basics
+  - [ ] APIs
+  - [ ] code testing best practices
+  - [ ] learn tech debt
+  - [ ] basic infrastructure setup
+  - [ ] basic tech stack knowledge
+- [ ] providing context to tech/dev
+  - [ ] make them feel a part of the process
+  - [ ] understand whys
+  - [ ] buy-in on the roadmap
+  - [ ] additional ideators
+- [ ] co-create product requirements
+  - [ ] work with tech lead about ticket(user story) structure
+  - [ ] use final designs
+  - [ ] note open questions for engineering
+  - [ ] communicate clear "ideal" start and end dates
+  - [ ] be open to feedback and breaking/combining ot tickets
+- [ ] keep road map transparent
+  - [ ] updates on roadmap changes/additions and why
+  - [ ] plan time for tech debt
+  - [ ] don't force engineering estimates
+- [ ] celebrate small and big wins
+  - [ ] sprints create a never-ending work cycle
+  - [ ] find break-points and milestones
+  - [ ] plan gifts, events, and recognition for the team
+  - [ ] ensure team is taking time off
